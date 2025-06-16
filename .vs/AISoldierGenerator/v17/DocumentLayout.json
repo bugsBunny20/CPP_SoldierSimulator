@@ -1,0 +1,684 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HandleProps.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HandleSoldiers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Props.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HandleSoldiers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Props.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\AttackBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\AttackBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\ArmorBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HealthBooster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\ArmorBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HealthBooster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\HandleProps.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SoldierObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SoldierObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Sniper.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Sniper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AISoldierGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\AISoldierGenerator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISOLDIERGENERATOR\\SOLDIERSFACTORY.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISOLDIERGENERATOR\\SOLDIERSFACTORY.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Marine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GreenBeret.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GreenBeret.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Spy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Spy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Marine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SniperFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SniperFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldiersFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SoldiersFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GreenBeretFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SpyFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\SpyFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\GreenBeretFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\MarineFactory.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA24AC91-0AF5-4054-B7AA-D9B3EDE5B68B}|AISoldierGenerator\\AISoldierGenerator.vcxproj|solutionrelative:AISoldierGenerator\\MarineFactory.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AISoldierGenerator.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AISoldierGenerator.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\AISoldierGenerator.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AISoldierGenerator.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\AISoldierGenerator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T12:57:01.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GameManager.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\GameManager.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-31T17:46:48.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GameManager.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GameManager.h",
+              "RelativeToolTip": "AISoldierGenerator\\GameManager.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-31T17:46:57.621Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Player.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Player.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:18:54.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Player.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Player.h",
+              "RelativeToolTip": "AISoldierGenerator\\Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:18:58.309Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Grid.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Grid.cpp",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAgwGwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:21:00.328Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Grid.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Grid.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Grid.h",
+              "RelativeToolTip": "AISoldierGenerator\\Grid.h",
+              "ViewState": "AQIAABIAAAAAAAAAAAArwBoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:21:09.564Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SoldiersFactory.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldiersFactory.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SoldiersFactory.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldiersFactory.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\SoldiersFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:22:24.728Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SoldiersFactory.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldiersFactory.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SoldiersFactory.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldiersFactory.h",
+              "RelativeToolTip": "AISoldierGenerator\\SoldiersFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-11T09:45:31.905Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SniperFactory.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SniperFactory.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\SniperFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:23:35.308Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SniperFactory.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SniperFactory.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SniperFactory.h",
+              "RelativeToolTip": "AISoldierGenerator\\SniperFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:23:39.109Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MarineFactory.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\MarineFactory.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\MarineFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:23:55.572Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MarineFactory.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\MarineFactory.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\MarineFactory.h",
+              "RelativeToolTip": "AISoldierGenerator\\MarineFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:24:02.15Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GreenBeretFactory.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GreenBeretFactory.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\GreenBeretFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:24:26.196Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GreenBeretFactory.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GreenBeretFactory.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeretFactory.h",
+              "RelativeToolTip": "AISoldierGenerator\\GreenBeretFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:24:22.974Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SpyFactory.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SpyFactory.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\SpyFactory.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:24:49.187Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SpyFactory.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SpyFactory.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SpyFactory.h",
+              "RelativeToolTip": "AISoldierGenerator\\SpyFactory.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:24:58.517Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SoldierObject.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SoldierObject.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\SoldierObject.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-09T16:13:42.591Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SoldierObject.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\SoldierObject.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\SoldierObject.h",
+              "RelativeToolTip": "AISoldierGenerator\\SoldierObject.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-11T15:10:03.378Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sniper.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Sniper.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Sniper.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:25:25.61Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sniper.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Sniper.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Sniper.h",
+              "RelativeToolTip": "AISoldierGenerator\\Sniper.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:25:30.515Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Marine.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Marine.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Marine.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:25:35.456Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Marine.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Marine.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Marine.h",
+              "RelativeToolTip": "AISoldierGenerator\\Marine.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:25:40.726Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GreenBeret.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GreenBeret.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\GreenBeret.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:25:47.326Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GreenBeret.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\GreenBeret.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\GreenBeret.h",
+              "RelativeToolTip": "AISoldierGenerator\\GreenBeret.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:25:54.573Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Spy.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Spy.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Spy.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:25:59.361Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Spy.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Spy.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Spy.h",
+              "RelativeToolTip": "AISoldierGenerator\\Spy.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:26:04.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandleSoldiers.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HandleSoldiers.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\HandleSoldiers.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-01T06:33:39.838Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandleSoldiers.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HandleSoldiers.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleSoldiers.h",
+              "RelativeToolTip": "AISoldierGenerator\\HandleSoldiers.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-01T06:33:51.099Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HandleProps.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HandleProps.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\HandleProps.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:03:26.226Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HandleProps.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HandleProps.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HandleProps.h",
+              "RelativeToolTip": "AISoldierGenerator\\HandleProps.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T00:05:04.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Props.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Props.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\Props.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:10:10.447Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Props.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\Props.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\Props.h",
+              "RelativeToolTip": "AISoldierGenerator\\Props.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T00:09:24.594Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HealthBooster.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HealthBooster.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\HealthBooster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:12:26.325Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HealthBooster.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\HealthBooster.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\HealthBooster.h",
+              "RelativeToolTip": "AISoldierGenerator\\HealthBooster.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T00:12:55.868Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArmorBooster.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\ArmorBooster.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\ArmorBooster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:13:03.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ArmorBooster.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\ArmorBooster.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\ArmorBooster.h",
+              "RelativeToolTip": "AISoldierGenerator\\ArmorBooster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T00:13:07.558Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttackBooster.cpp",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.cpp",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\AttackBooster.cpp",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.cpp",
+              "RelativeToolTip": "AISoldierGenerator\\AttackBooster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-03T00:13:59.141Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttackBooster.h",
+              "DocumentMoniker": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.h",
+              "RelativeDocumentMoniker": "AISoldierGenerator\\AttackBooster.h",
+              "ToolTip": "D:\\01_Work\\01_Ubisoft\\C\u002B\u002B\\AISoldierGenerator\\AISoldierGenerator\\AttackBooster.h",
+              "RelativeToolTip": "AISoldierGenerator\\AttackBooster.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T00:14:05.973Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

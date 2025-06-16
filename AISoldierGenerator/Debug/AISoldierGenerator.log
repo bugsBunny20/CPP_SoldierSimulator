@@ -1,0 +1,32 @@
+﻿  AISoldierGenerator.cpp
+  ArmorBooster.cpp
+  AttackBooster.cpp
+  GameManager.cpp
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\GameManager.cpp(110,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\GameManager.cpp(183,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GreenBeret.cpp
+  GreenBeretFactory.cpp
+  Grid.cpp
+  HandleProps.cpp
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\HandleProps.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\HandleProps.cpp(34,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HandleSoldiers.cpp
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\HandleSoldiers.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\HandleSoldiers.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  HealthBooster.cpp
+  Marine.cpp
+  MarineFactory.cpp
+  Player.cpp
+  Props.cpp
+  PropsFactory.cpp
+  Sniper.cpp
+  SniperFactory.cpp
+  SoldierObject.cpp
+  SoldiersFactory.cpp
+  Spy.cpp
+  Generating Code...
+D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\AISoldierGenerator\Player.cpp(34,1): warning C4715: 'Player::GetSoldier': not all control paths return a value
+  Compiling...
+  SpyFactory.cpp
+  Generating Code...
+  AISoldierGenerator.vcxproj -> D:\01_Work\01_Ubisoft\C++\AISoldierGenerator\Debug\AISoldierGenerator.exe
