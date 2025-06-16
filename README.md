@@ -1,12 +1,14 @@
 🪖 Soldier Simulator
-Soldier Simulator is a lightweight 2D simulation game built using C++ and SDL. The game features autonomous soldier characters navigating a simple terrain, responding to input, and collecting power-ups. It was developed as a prototype to explore object-oriented design, event handling, and interactive game logic in SDL.
+
+Soldier Simulator is a lightweight 2D simulation game built using C++ and SFML. The game features autonomous soldier characters navigating a simple terrain and collecting power-ups. Designed as a prototype, it explores object-oriented design, basic AI, input handling, and simple game mechanics.
 
 🕹️ Gameplay Overview
-The simulation spawns soldier entities on a 2D grid. Soldiers can move across the map and interact with nearby power-ups when in range. The game supports basic AI behavior and user input via the keyboard.
+The simulation places soldier entities on a 2D map. Players control one soldier, while others are AI-driven. Power-ups are scattered around the environment and are automatically equipped when the player is in proximity.
+
 
 ✨ Features
 
-- 👣 2D soldier entity movement using SDL rendering
+- 👣 2D soldier entity movement using SFML rendering
 - 🧠 Basic AI logic: patrol and idle states
 - ⚡ Power-up system: scattered across the map and collected when in proximity
 - 🎮 Keyboard input for player-controlled soldiers
@@ -14,11 +16,10 @@ The simulation spawns soldier entities on a 2D grid. Soldiers can move across th
 - 🖼️ Simple grid-based layout
 
 ## 🛠️ Tech Stack
-
-- **Language:** C++
-- **Graphics:** SDL2
-- **Build System:** g++ or Makefile
-- **Platform:** Windows
+Language: C++
+Graphics: SFML
+Build System: g++ or Visual Studio / Code::Blocks
+Platform: Windows/Linux
 
 ## 🚀 Getting Started
 
@@ -28,46 +29,39 @@ The simulation spawns soldier entities on a 2D grid. Soldiers can move across th
 - [SDL2](https://www.libsdl.org/download-2.0.php) installed and linked
 
 🪟 Compile & Run (Windows)
-Install SDL2:
+🪟 Windows (SFML)
+Install SFML from: https://www.sfml-dev.org/download.php
 
-Download SDL2 development libraries for Visual Studio or MinGW from https://www.libsdl.org/download-2.0.php
+Using Code::Blocks
 
-Extract the SDL2 folder and place the include and lib folders somewhere accessible.
+Set SFML include and lib paths in Build Options.
 
-Add the SDL2.dll to your project’s executable folder (where .exe gets built).
+Link:
 
-Using Code::Blocks:
-
-Create a new C++ project.
-
-Go to Project > Build Options:
-
-Under Search directories, add the SDL2/include path.
-
-Under Linker settings, add these libraries:
-
-nginx
+sql
 Copy
 Edit
-SDL2
-SDL2main
-Under Search directories > Linker, add the SDL2/lib path.
+sfml-graphics
+sfml-window
+sfml-system
+Use -d variants for Debug.
 
-Using Visual Studio:
+Copy .dll files from SFML/bin/ to your .exe folder.
 
-Create a new empty C++ project.
+Using Visual Studio
 
-Right-click the project → Properties → C/C++ → Additional Include Directories → Add SDL2's include.
+Add SFML/include to Additional Include Directories.
 
-Under Linker → Additional Library Directories → Add SDL2's lib.
+Add SFML/lib to Library Directories.
 
-Link SDL2.lib and SDL2main.lib under Input > Additional Dependencies.
+Link:
+vbnet
+sfml-graphics.lib
+sfml-window.lib
+sfml-system.lib
+Use -d versions for Debug mode.
 
-Copy SDL2.dll to the output folder (Debug/ or Release/).
-
-Build and Run
-
-Press F5 to compile and run the game.
+Copy needed .dll files into the output folder.
 
 📁 Project Structure
 
@@ -86,22 +80,15 @@ Press F5 to compile and run the game.
 🧠 Future Ideas
 
 Advanced AI (pathfinding, combat)
-
 HUD and health bar mechanics
-
 Sound effects and animations
-
 New power-up types (e.g. speed boost, shield)
-
 Level loading from file or JSON
 
 
-
 🙌 Credits
-
 Development : Arti Lanke
-
-SDL2: https://www.libsdl.org
+Powered by SFML: https://www.sfml-dev.org
 
 📬 Contact
 Reach out via [LinkedIn] https://www.linkedin.com/in/arti-lanke/
