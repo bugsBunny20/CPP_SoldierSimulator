@@ -21,12 +21,28 @@ Graphics: SFML
 Build System: g++ or Visual Studio / Code::Blocks
 Platform: Windows/Linux
 
-## 🚀 Getting Started
+🚀 Getting Started
 
-### Prerequisites
+📦 Prerequisites
+Before building or running the project, make sure you have:
 
-- C++17 or newer
-- [SDL2](https://www.libsdl.org/download-2.0.php) installed and linked
+✅ C++ Compiler
+
+Windows: MinGW or MSVC (via Visual Studio)
+
+Linux/macOS: g++, clang++
+
+✅ SFML Library
+
+Download and install from https://www.sfml-dev.org/download.php
+
+Ensure include and lib directories are properly set up in your IDE or build system
+
+Copy required .dll files into your build/output folder (on Windows)
+
+✅ CMake (Optional but recommended)
+
+If you're using CMake for cross-platform builds.
 
 🪟 Compile & Run (Windows)
 🪟 Windows (SFML)
