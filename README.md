@@ -91,7 +91,9 @@ Copy needed .dll files into the output folder.
 
 
 📷 Screenshots
-(Add screenshots in the screenshots/ folder and reference them here.)
+| Console | Gameplay |
+|---------|---------|
+| ![console](screenshots/console.jpg) | ![gameplay](screenshots/gameplay.jpg) |
 
 🧠 Future Ideas
 
