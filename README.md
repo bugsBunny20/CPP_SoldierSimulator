@@ -16,14 +16,13 @@ The simulation places soldier entities on a 2D map. Players control one soldier,
 - 🧱 Modular OOP structure (Game, Soldier, PowerUp, etc.)
 - 🖼️ Simple grid-based layout
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 Language: C++
 Graphics: SFML
 Build System: g++ or Visual Studio / Code::Blocks
 Platform: Windows/Linux
 
 🚀 Getting Started
-
 📦 Prerequisites
 Before building or running the project, make sure you have:
 
@@ -35,50 +34,63 @@ Linux/macOS: g++, clang++
 
 ✅ SFML Library
 
-Download and install from https://www.sfml-dev.org/download.php
+Download from: https://www.sfml-dev.org/download.php
 
-Ensure include and lib directories are properly set up in your IDE or build system
+Set up include and lib paths in your IDE or build system
 
-Copy required .dll files into your build/output folder (on Windows)
+Copy required .dll files into your build/output folder (Windows only)
 
 ✅ CMake (Optional but recommended)
 
-If you're using CMake for cross-platform builds.
+If you're using CMake for cross-platform builds
 
-🪟 Compile & Run (Windows)
-🪟 Windows (SFML)
-Install SFML from: https://www.sfml-dev.org/download.php
+🪟 Compile & Run (Windows with SFML)
+🔧 Using Code::Blocks
+Install and open Code::Blocks with MinGW compiler.
 
-Using Code::Blocks
+Set SFML include and lib paths under Build Options.
 
-Set SFML include and lib paths in Build Options.
-
-Link:
+Link the following libraries:
 
 sql
-Copy
-Edit
+
 sfml-graphics
 sfml-window
 sfml-system
-Use -d variants for Debug.
+For Debug mode, use:
 
-Copy .dll files from SFML/bin/ to your .exe folder.
+sql
 
-Using Visual Studio
+sfml-graphics-d
+sfml-window-d
+sfml-system-d
+Copy all required .dll files from SFML/bin/ into the folder containing your .exe.
 
-Add SFML/include to Additional Include Directories.
+🔧 Using Visual Studio
+Install SFML and extract it to a folder.
 
-Add SFML/lib to Library Directories.
+In your Visual Studio project:
 
-Link:
+Add SFML/include to Additional Include Directories
+
+Add SFML/lib to Library Directories
+
+Link the following libraries under Linker → Input:
+
 vbnet
+
 sfml-graphics.lib
 sfml-window.lib
 sfml-system.lib
-Use -d versions for Debug mode.
+For Debug mode, link:
 
-Copy needed .dll files into the output folder.
+vbnet
+
+sfml-graphics-d.lib
+sfml-window-d.lib
+sfml-system-d.lib
+Copy the appropriate .dll files from SFML/bin/ into your build output folder.
+
 
 📁 Project Structure
 
