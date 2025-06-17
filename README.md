@@ -3,6 +3,7 @@
 Soldier Simulator is a lightweight 2D simulation game built using C++ and SFML. The game features autonomous soldier characters navigating a simple terrain and collecting power-ups. Designed as a prototype, it explores object-oriented design, basic AI, input handling, and simple game mechanics.
 
 🕹️ Gameplay Overview
+
 The simulation places soldier entities on a 2D map. Players control one soldier, while others are AI-driven. Power-ups are scattered around the environment and are automatically equipped when the player is in proximity.
 
 
